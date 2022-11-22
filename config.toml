@@ -1,5 +1,5 @@
-baseURL = 'https://iguesswellneverknow.com/'
-languageCode = 'en-us'
+baseURL = 'https://www.iguesswellneverknow.com/'
+languageCode = 'en-US'
 title = 'iguesswellneverknow'
 theme = 'PaperMod'
 
